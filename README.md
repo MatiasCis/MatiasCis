@@ -4,11 +4,13 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 <picture> <img align="right" src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width = 230px></picture>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :school: I'm a `Junior` Software engineer. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :nerd_face: I'm currently learning Node.js. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :technologist: I’m available for working. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :nerd_face: Always believe `"You are what you loved"` <br/>
+</p>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :school: I'm a `Junior` Software engineer. <br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :nerd_face: I'm currently learning Node.js. <br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :technologist: I’m available for working. <br/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :nerd_face: Always believe `"You are what you loved"` <br/>
 
   <br/>
   <br/>
@@ -17,7 +19,7 @@
 </ul>
 
 
-
+  <br/>
 <h1 align="center">TECHNOLOGY</h1>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
