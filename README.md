@@ -5,10 +5,10 @@
 
 <picture> <img align="right" src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width = 230px></picture>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :school: I'm a `Junior` Software engineer. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :school: I'm a Junior Software engineer. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :nerd_face: I'm currently learning Angular and NestJS. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :technologist: I’m available for working. <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :nerd_face: Always believe `"You are what you loved"` <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- :nerd_face: Always believe "You are what you loved" <br/>
 </p>
 
 
